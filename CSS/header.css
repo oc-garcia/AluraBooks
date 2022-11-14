@@ -16,7 +16,7 @@
 }
 
 .container__botao:checked ~ .container__rotulo > .cabecalho__menu-hamburguer {
-  background-image: url(Assets/Menu\ Aberto.png);
+  background-image: url(Assets/Menu_Aberto.png);
 }
 
 .container__botao:checked ~ .container__rotulo {
