@@ -9,14 +9,14 @@
 .cabecalho__menu-hamburguer {
   width: 40px;
   height: 40px;
-  background-image: url(/Assets/Menu.svg);
+  background-image: url(Assets/Menu.svg);
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
 }
 
 .container__botao:checked ~ .container__rotulo > .cabecalho__menu-hamburguer {
-  background-image: url(/Assets/Menu\ Aberto.png);
+  background-image: url(Assets/Menu\ Aberto.png);
 }
 
 .container__botao:checked ~ .container__rotulo {
